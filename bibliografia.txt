@@ -1,1 +1,2 @@
-echo "Chacon, S. and Straub, B. Pro Git. Apress." > bibliografia.txt
+Scott Chacon and Ben Straub. Pro Git. Appress.
+Ryan Hodson. Ry's Git Tutorial. Smashwords (2014)
