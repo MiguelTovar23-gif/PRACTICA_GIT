@@ -1,0 +1,1 @@
+echo "En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto." >> capitulos/capitulo1.txt
