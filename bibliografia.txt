@@ -1,1 +1,1 @@
-echo "Chacon, S. and Straub, B. Pro Git. Apress." > bibliografia.txt
+Chacon, S. and McCullough, M. Version control with Git. 0'Reilly.
